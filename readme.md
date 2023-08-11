@@ -11,7 +11,7 @@ If you want the app to start automatically set this in your dock
 
 ## Set Up
 
-Clone this repo and run `installer.sh` (this assumes having python3 installed) and the app should be installed into your applications folder.
+Clone or download this repo and run `installer.sh` (this assumes having `python3` installed) and the app should be installed into your applications folder.
 
 
 ## Changing Locations
