@@ -1,6 +1,6 @@
 # Tide-Bar
 
-A menu bar app to show todays tides for a region of your choice!
+A menu bar app for MacOS to show todays tides for a region of your choice!
 
 <img src="readme-imgs/demo.png" alt="drawing" width="400"/>
 
