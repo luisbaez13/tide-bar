@@ -4,7 +4,7 @@ A menu bar app for MacOS to show todays tides for a region of your choice!
 
 <img src="readme-imgs/demo.png" alt="drawing" width="400"/>
 
-If you want it to start automatically set this from your dock
+If you want the app to start automatically set this in your dock
 
 <img src="readme-imgs/stay_on.png" alt="drawing" width="400"/>
 
